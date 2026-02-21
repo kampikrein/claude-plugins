@@ -1,0 +1,5 @@
+{
+  "name": "project-boundary-guard",
+  "description": "프로젝트 경계 보호 — 외부 파일 수정 방지 훅 + 소프트 가드레일",
+  "version": "1.0.0"
+}

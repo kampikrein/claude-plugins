@@ -1,0 +1,15 @@
+{
+  "name": "Kampi Claude Plugins",
+  "owner": {
+    "name": "kampikrein",
+    "url": "https://github.com/kampikrein"
+  },
+  "plugins": [
+    {
+      "name": "project-boundary-guard",
+      "version": "1.0.0",
+      "description": "프로젝트 경계 보호 — 외부 파일 수정 방지 훅 + 소프트 가드레일",
+      "source": "./project-boundary-guard"
+    }
+  ]
+}
