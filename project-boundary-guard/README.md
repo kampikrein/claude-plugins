@@ -16,7 +16,7 @@ Claude Code 플러그인 — 프로젝트 경계 보호 (외부 파일 수정 �
 claude --plugin-dir /path/to/project-boundary-guard
 
 # 마켓플레이스에서 설치
-claude marketplace add https://github.com/kampikrein/claude-plugins/marketplace.json
+claude plugin marketplace add https://github.com/kampikrein/claude-plugins/marketplace.json
 claude plugin install project-boundary-guard --scope user
 ```
 
